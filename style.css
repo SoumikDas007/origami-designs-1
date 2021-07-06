@@ -1,0 +1,19 @@
+h1 {
+    color: rgb(0, 0, 0);
+    text-align: center
+}
+
+/*{
+    border:solid;
+}*/
+
+.header{
+    background-color: #00ffea;
+    display: flex;
+    justify-content:space-around;
+}
+
+body{
+
+    background-color : #00ffea;
+}
